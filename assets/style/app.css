@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.DimasPP{
+    width: 200px;
+}"
+.profile h2{
+    color: black;
+}
+.profile h4{
+    color: rgb(34, 34, 34);
+    transform: translateY(-10px);
+}
+.biodata {
+    background-color: white;
+}
+.footer {
+    background-color: white;
+}
